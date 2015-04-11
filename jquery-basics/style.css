@@ -1,0 +1,9 @@
+body{
+background-color: pink;
+}
+
+.alert{
+  border: 5px dashed red;
+  background-color: yellow;
+  font-size: 30px;
+}
